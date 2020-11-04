@@ -271,6 +271,10 @@ a:focus {
   margin-bottom: var(--spacing-0);
 }
 
+.post-list-item a {
+  text-decoration: none;
+}
+
 .post-list-item h2 {
   font-size: var(--fontSize-5);
   color: var(--color-primary);
