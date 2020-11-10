@@ -53,7 +53,7 @@ const Bio = () => {
       )}
       {author?.name && (
         <p>
-          Vollzeit als CSO angestellt sein, ein eigens kleines Business betreiben und um die Welt reisen - wie das geht, erzähle ich euch in diesem Blog!
+          Vollzeit als CSO angestellt sein, ein eigenes kleines Business betreiben und um die Welt reisen - wie das geht, welche Herausforderungen es gibt und was ich erlebe, erzähle ich in diesem Blog!
         </p>
       )}
     </div>
