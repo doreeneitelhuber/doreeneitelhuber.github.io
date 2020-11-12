@@ -275,6 +275,16 @@ a:focus {
   text-decoration: none;
 }
 
+.post-item-more {
+  margin-top: 0.6em;
+  font-size: 0.6em;
+  color: grey;
+}
+
+.post-item-more:hover {
+  color: orange;
+}
+
 .post-list-item h2 {
   font-size: var(--fontSize-5);
   color: var(--color-primary);
