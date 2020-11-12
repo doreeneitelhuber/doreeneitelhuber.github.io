@@ -279,6 +279,7 @@ a:focus {
   margin-top: 0.6em;
   font-size: 0.6em;
   color: grey;
+  text-align: right;
 }
 
 .post-item-more:hover {
