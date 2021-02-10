@@ -1,12 +1,12 @@
 ---
-title: 5 Gründe, warum es dir schwer fällt, deinem Team in Remote-Zeiten zu vertrauen
+title: 5 Gründe, warum du deinem Team remote nicht vertraust
 date: "2021-01-24T22:00:00.284Z"
-description: "Mein Team und mich trennen gut 9000 km und 7 Stunden Zeitverschiebung. Dennoch habe ich keinerlei Befürchtung, dass mein Team den ganzen Tag rumpimmelt und mir nur vorgaukelt, zu arbeiten. Ich habe mir Gedanken darum gemacht, was mein Team und mich von alteingesessenen Büroliebhabern unterscheidet. Dabei sind mir fünf Gründe eingefallen, weswegen die „das-kann-man-nur-persönlich-besprechen“-Fraktion..."
+description: "Mein Team und mich trennen gut 9000 km und 6 Stunden Zeitverschiebung. Dennoch habe ich keinerlei Befürchtung, dass mein Team den ganzen Tag rumpimmelt und mir nur vorgaukelt, zu arbeiten. Ich habe mir Gedanken darum gemacht, was mein Team und mich von alteingesessenen Büroliebhabern unterscheidet. Dabei sind mir fünf Gründe eingefallen, weswegen die „das-kann-man-nur-persönlich-besprechen“-Fraktion..."
 ---
 
 Mein Team und mich trennen gut 9000 km und 6 Stunden Zeitverschiebung. Dennoch habe ich keinerlei Befürchtung, dass mein Team den ganzen Tag rumpimmelt und mir nur vorgaukelt, zu arbeiten.
 
-Ich habe mir Gedanken darum gemacht, was mein Team und mich von alteingesessenen Büroliebhabern unterscheidet. Dabei sind mir vier Gründe eingefallen, weswegen die „das-kann-man-nur-persönlich-besprechen“-Fraktion ein Problem damit hat, seine Mitarbeiter nicht den ganzen Tag im Büro unter seinen Fittichen zu haben. Wenn man die folgenden fünf Punkte aus dem Weg räumt, fällt das Vertrauen vielleicht gar nicht mehr so schwer!
+Ich habe mir Gedanken darum gemacht, was mein Team und mich von alteingesessenen Büroliebhabern unterscheidet. Dabei sind mir fünf Gründe eingefallen, weswegen die „das-kann-man-nur-persönlich-besprechen“-Fraktion ein Problem damit hat, seine Mitarbeiter nicht den ganzen Tag im Büro unter seinen Fittichen zu haben. Wenn man die folgenden fünf Punkte aus dem Weg räumt, fällt das Vertrauen vielleicht gar nicht mehr so schwer!
 
 ## 1. Es gibt keine Ziele
 Wo keine Ziele sind, gibt es auch keine Ergebnisse. Wenn man seinem Mitarbeiter eine sinnvolle und Mehrwert stiftende Aufgabe überträgt, dessen Ergebnisse wichtig sind, werden diese Ergebnisse später kontrolliert. Dafür helfen Zielsysteme wie beispielsweise OKRs oder schon einfache Deadlines, bis wann die Aufgabe erledigt werden muss. Als Vorgesetzter sollte man diese Ergebnisse natürlich kontrollieren - auch wenn dieses Wort so negativ behaftet ist, ist es trotzdem wichtig. Man selbst möchte ja auch an nichts arbeiten, was hinterher kein Schwein interessiert. Ich bin überzeugt davon, dass ein Mitarbeiter nicht 8 Stunden am Tag auf Youtube oder Zalando verbringt, wenn er weiß, dass von ihm qualitativ hochwertige Ergebnisse für eine wichtige Mission verlangt werden. Seine Mitarbeiter im Büro sitzen zu haben, ist ein weitaus schlechteres Kontrollinstrument, als sich Ergebnisse zeigen zu lassen.
